@@ -1,4 +1,4 @@
-# Nerdy-Gurdy-servo-capo-sytem
+# Nerdy-Gurdy servo capo sytem
 
 Electronics and servos
 
