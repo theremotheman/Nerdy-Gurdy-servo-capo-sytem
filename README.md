@@ -9,6 +9,10 @@ Battery holder
 
 ![Alt text](https://github.com/theremotheman/Nerdy-Gurdy-servo-capo-sytem/blob/master/images/2.jpg?raw=true "Battery holder")
 
+Battery holder side view
+
+![Alt text](https://github.com/theremotheman/Nerdy-Gurdy-servo-capo-sytem/blob/master/images/3.jpg?raw=true "Battery holder side view")
+
 # Summary
 
 Servomechanical capo system for Nerdy Gurdy - to be used with my rail system. You need:
