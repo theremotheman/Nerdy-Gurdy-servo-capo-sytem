@@ -18,16 +18,27 @@ Battery holder side view
 Servomechanical capo system for Nerdy Gurdy - to be used with my rail system. You need:
 
 1x Arduino pro micro
+
 1x18650 battery
+
 1xUsb boost converter
+
 1xbuzzer
+
 3x led
+
 3xbutton
+
 6x10kohm resistor
+
 1xpower switch
+
 hot glue
+
 solder(doh)
+
 jumper cables
+
 micro servos - like tower pro 9g servo
 
 Print, Mount, servo_button.ino should be self-explanatory 
@@ -36,12 +47,19 @@ Print, Mount, servo_button.ino should be self-explanatory
 # Print Settings
 
 Printer Brand: Wanhao
+
 Printer: Wanhao Duplicator i3 V2
+
 Rafts: No
+
 Supports: No
+
 Resolution: 0.25
+
 Infill: 100
+
 Filament_brand: DevilDesign
+
 Filament_material: ABS
 
 Use battery holder from: http://www.thingiverse.com/thing:456900
